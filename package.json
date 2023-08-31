@@ -1,0 +1,27 @@
+{
+  "name": "leto-timetables",
+  "version": "0.1.0",
+  "description": "Letovo timetables for new letovians",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LetovoLeTo/leto-timetables.git"
+  },
+  "keywords": [
+    "letovo",
+    "leto",
+    "timetables"
+  ],
+  "author": "Milk_Cool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LetovoLeTo/leto-timetables/issues"
+  },
+  "homepage": "https://github.com/LetovoLeTo/leto-timetables#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
